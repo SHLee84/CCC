@@ -1,0 +1,17 @@
+.container {
+	padding-top: 100px;
+	background-color: #FAF4E3;
+}
+h1, h2, h3, h4, h5 {
+	font-family: georgia;
+}
+h1 {
+	font-size: 80px;
+}
+.isit {
+	font-family: georgia;
+	font-size: 18px;
+}
+body {
+	background-color: #FAF4E3;
+}

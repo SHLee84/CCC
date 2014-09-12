@@ -1,0 +1,38 @@
+body {
+	font-family: 'PT Sans Caption', sans-serif;
+}
+
+section {
+  background: rgba(0, 0, 0, 0.05);
+  padding: 40px;
+  padding-top: 40px;
+  position: relative;
+}
+
+.isit_init,
+.isit_previous,
+.isit_admins,
+.isit_guests,
+.isit_events {
+  background: transparent;
+}
+
+.homenaje {
+	font-family: 'Homenaje', sans-serif;
+}
+
+.navbar-nav > li > a {
+	font-size: 20px;
+}
+
+.navbar-brand {
+	font-size: 20px;
+}
+
+label {
+	font-weight: normal;
+}
+
+.isit_orange {
+	color: #FF7F0F;
+}
